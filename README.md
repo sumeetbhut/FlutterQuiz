@@ -15,3 +15,8 @@ quiz – change question after select answer.
 ![Screenshot_20200121-180203_pixel_very_silver_portrait](https://user-images.githubusercontent.com/4372065/76675338-23716300-65de-11ea-8492-5732dc282a6e.png)
 ![Screenshot_20200121-180249_pixel_very_silver_portrait](https://user-images.githubusercontent.com/4372065/76675339-24a29000-65de-11ea-85a5-59fa5902845f.png)
 
+This project is a starting point for a Flutter application.
+
+For help getting started with Flutter, view our
+[online documentation](http://theflutterblog.com/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
